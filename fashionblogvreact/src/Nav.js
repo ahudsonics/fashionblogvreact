@@ -22,6 +22,7 @@ function Nav() {
         <a href="">About</a>
       </span>
     </nav>
+    
   );
 }
 
